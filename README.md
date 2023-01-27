@@ -1,1 +1,1 @@
-# andronic.me
+just starte out, idk haha
