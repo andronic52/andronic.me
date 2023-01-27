@@ -1,1 +1,5 @@
-just starte out, idk haha
+just started out, idk haha
+does this accept python?
+print('hello world')
+i dont think this is a console...
+well.. ill explore a bit more...
